@@ -8,12 +8,14 @@
 @@||errnewlog.umeng.com^
 @@||grpc.biliapi.net^
 @@||iyfbodn.com^
+@@||msg.umengcloud.com^$important
 @@||pull.yximgs.com^
 @@||resolve.umeng.com^
 @@||s2.kskwai.com^
 @@||sfp.safe.baidu.com^
 @@||shuzilm.cn^
 @@||tpns.tencent.com^
+@@||umengcloud.com^$important
 @@||zhuanzhuan.com^
 ||031i12oe.shop^
 ||031i12oe.xyz^
@@ -161,5 +163,3 @@
 ||yuwenxuexizazhi.com^
 ||z23r562938.iask.in^
 ||zzhc.vnet.cn^
-@@||umengcloud.com^$important
-@@||msg.umengcloud.com^$important
